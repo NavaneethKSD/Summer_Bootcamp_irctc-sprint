@@ -96,6 +96,12 @@ Firebase Cloud Messaging for browser notifications.
 
 ---
 
+### Wireframe
+
+![Tatkal Queue](../assets/wireframes/tatkal-queue.png)
+
+*Figure 1: Proposed Tatkal Virtual Queue Interface*
+
 # Feature Spec 2: Persistent Smart Search Filters
 
 ## Problem Statement
@@ -166,6 +172,11 @@ None
 - Session expiry
 
 ---
+
+### Wireframe
+
+![Search Filters](../assets/wireframes/search-filter.png)
+
 
 # Feature Spec 3: Seat Preference Lock
 
@@ -238,6 +249,12 @@ None
 
 ---
 
+### Wireframe
+
+![Seat Preference](../assets/wireframes/seat-preference.png)
+
+
+
 # Feature Spec 4: Simple PNR Status Dashboard
 
 ## Problem Statement
@@ -300,6 +317,11 @@ Returns
 
 ---
 
+### Wireframe
+
+![PNR Dashboard](../assets/wireframes/pnr-dashboard.png)
+
+
 # Feature Spec 5: Transparent Cancellation & Refund Tracker
 
 ## Problem Statement
@@ -360,6 +382,11 @@ POST /ticket/cancel
 - Payment gateway delay
 
 ---
+
+### Wireframe
+
+![Refund Tracker](../assets/wireframes/refund-tracker.png)
+
 
 # Feature Spec 6: Mobile Responsive Booking Experience
 
@@ -422,3 +449,7 @@ None
 - Small screen devices
 - Slow internet
 - Orientation changes
+
+### Wireframe
+
+![Mobile Booking](../assets/wireframes/mobile-booking.png)
