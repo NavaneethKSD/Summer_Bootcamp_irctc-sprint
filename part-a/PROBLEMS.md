@@ -217,7 +217,7 @@ Common because many passengers modify travel plans daily.
 
 Step 3.
 
-Refund breakup is not presented clearly.
+Refund breakup is not presented clearly.(There is no detailes of paid gst amount)
 
 
 ---
