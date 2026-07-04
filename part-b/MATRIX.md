@@ -121,3 +121,14 @@ These initiatives require substantial backend and frontend changes but provide t
 # Conclusion
 
 Based on the impact and effort analysis, the first development sprint should focus on delivering high-impact, low-effort improvements that quickly enhance the user experience. Larger infrastructure projects such as the Tatkal Virtual Queue and Mobile Responsive Booking Experience should be scheduled as long-term initiatives after foundational improvements have been completed.
+
+---
+
+# Matrix Review Updates
+
+After peer review, the following improvements were made:
+
+- Search Filters remained a Quick Win because implementation effort is low.
+- Tatkal Queue remained a Major Project due to infrastructure complexity.
+- Mobile Booking Experience was prioritised higher because a large percentage of users access IRCTC from mobile devices.
+- Added stronger justifications using Part A frequency analysis.

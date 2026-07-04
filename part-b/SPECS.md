@@ -453,3 +453,61 @@ None
 ### Wireframe
 
 ![Mobile Booking](../assets/wireframes/mobile-booking.png)
+
+
+---
+
+# Peer Review Summary
+
+## Reviewer
+
+Classmate / Peer Reviewer
+
+## Features Reviewed
+
+1. Tatkal Virtual Queue System
+2. Smart Search Filters
+
+## Feedback Received
+
+### Feedback 1
+
+The reviewer suggested that the Tatkal Queue should automatically remove inactive users after a timeout to prevent queue blocking.
+
+### Action Taken
+
+Added a 90-second booking timeout and automatic queue expiry in the Edge Cases section.
+
+---
+
+### Feedback 2
+
+The reviewer recommended showing an estimated waiting time along with queue position.
+
+### Action Taken
+
+Updated the Proposed Solution and Wireframe to include an Estimated Wait Time indicator.
+
+---
+
+### Feedback 3
+
+The reviewer suggested that Search Filters should persist across browser refreshes.
+
+### Action Taken
+
+Updated the Technical Plan to store filters in browser local storage until the session ends.
+
+---
+
+# Final Changes After Peer Review
+
+✔ Added queue timeout mechanism.
+
+✔ Added estimated waiting time.
+
+✔ Improved search filter persistence.
+
+✔ Updated success metrics.
+
+✔ Expanded edge cases for network failures.
